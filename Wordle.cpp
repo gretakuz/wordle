@@ -6,9 +6,7 @@
 #include <clocale>
 #include <codecvt>
 #include <cwchar>
-#include <Windows.h>
 #include <fcntl.h>
-#include <io.h>
 
 using namespace std;
 
